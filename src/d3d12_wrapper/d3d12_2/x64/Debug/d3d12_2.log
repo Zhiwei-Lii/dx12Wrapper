@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (d3d12_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  dllmain.cpp
+  ID3D12Device_Wrapper.cpp
+  Func_Wrapper.cpp
+  Generating Code...
+     Creating library C:\Users\lizhiwei\source\repos\d3d12_wrapper\x64\Debug\d3d12.lib and object C:\Users\lizhiwei\source\repos\d3d12_wrapper\x64\Debug\d3d12.exp
+  d3d12_2.vcxproj -> C:\Users\lizhiwei\source\repos\d3d12_wrapper\x64\Debug\d3d12.dll
